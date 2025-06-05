@@ -34,6 +34,18 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
+# 🛠️ Tools I Use:
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Fritzing](https://img.shields.io/badge/Fritzing-E40000?style=for-the-badge&logo=fritzing&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-294172?style=for-the-badge)
+![Multisim](https://img.shields.io/badge/Multisim-2C6B8E?style=for-the-badge)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-FFB400?style=for-the-badge&logo=autodesk&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ahmedhaithamamer&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=ahmedhaithamamer&theme=dark&hide_border=true)  
