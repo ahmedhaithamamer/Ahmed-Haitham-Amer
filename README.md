@@ -12,7 +12,7 @@
 
 ## 🎓 Courses I Took
 [![CS50x](https://img.shields.io/badge/CS50x-Harvard-red?style=for-the-badge&logo=harvard&logoColor=white)](https://cs50.harvard.edu/x/)
-![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![IoT - UCI](https://img.shields.io/badge/IoT_UC_Irvine-007ACC?style=for-the-badge&logo=university&logoColor=white)
 [![IBM Data Science](https://img.shields.io/badge/IBM_Data_Science-blue?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/professional-certificates/ibm-data-science)
 [![AWS Academy Cloud Foundations](https://img.shields.io/badge/AWS_Academy_Cloud_Foundations-orange?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/training/awsacademy/)
 [![Siemens Automotive Embedded Systems](https://img.shields.io/badge/Siemens_Automotive_Embedded_Systems-blue?style=for-the-badge&logo=siemens&logoColor=white)](https://www.siemens.com)
