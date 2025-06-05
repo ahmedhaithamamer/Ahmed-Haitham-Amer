@@ -7,10 +7,10 @@
 ☁️ Currently diving into <strong>AWS Cloud</strong> and <strong>Data Science</strong> to broaden my skillset. <br>
 📫 Open to collaborations and exciting opportunities — let’s connect!
 
-## 📝 Check out my CV:
+# 📝 Check out my CV:
 [CV (Google Drive)](https://drive.google.com/file/d/1fxm6Sk8PWPynkXcnWZxPdcOkl6KUCnO2/view?usp=sharing)
 
-## 🌐 Connect with Me:
+# 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-haitham-amer)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ahmedhaitham589)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/ahmedhaithamamer)
@@ -20,7 +20,7 @@
 
 # 💻 Tech Stack
 
-## 👨‍💻 Programming Languages
+### 👨‍💻 Programming Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
