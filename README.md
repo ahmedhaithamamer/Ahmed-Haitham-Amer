@@ -1,16 +1,16 @@
 <h1>Hi 👋, I'm Ahmed Haitham</h1>
 <h3>Electronics and Computer Engineering Student at Nile University, Egypt</h3>
 
-# 💫 About Me:
+## 💫 About Me:
 🔧 Passionate about <strong>Embedded Systems</strong>, <strong>IoT</strong>, and building innovative, real-world solutions using microcontrollers. <br>
 💻 Also exploring <strong>software development</strong>, with experience in Python, MATLAB, and web technologies. <br>
 ☁️ Currently diving into <strong>AWS Cloud</strong> and <strong>Data Science</strong> to broaden my skillset. <br>
 📫 Open to collaborations and exciting opportunities — let’s connect!
 
-# 📝 Check out my CV:
+## 📝 Check out my CV:
 [CV (Google Drive)](https://drive.google.com/file/d/1fxm6Sk8PWPynkXcnWZxPdcOkl6KUCnO2/view?usp=sharing)
 
-# 🌐 Connect with Me:
+## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-haitham-amer)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ahmedhaitham589)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/ahmedhaithamamer)
@@ -18,7 +18,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ahmedhaitham4331)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ahmedhaitham10)
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -55,7 +55,7 @@
 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ahmedhaithamamer&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=ahmedhaithamamer&theme=dark&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhaithamamer&theme=dark&hide_border=true&layout=compact)
