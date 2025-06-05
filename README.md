@@ -26,10 +26,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=Mathworks&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logoColor=white)
-
-## 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🛠️ Tools & IDEs
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -42,16 +39,15 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
-## 🧪 Simulation & Circuit Design
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-FFAE1A.svg?style=for-the-badge&logo=tinkercad&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-36454F.svg?style=for-the-badge&logoColor=white)
 
+## 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 ## ☁️ Cloud & Platforms
 ![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-## 🧠 Data & Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🎨 Design & Creativity
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
