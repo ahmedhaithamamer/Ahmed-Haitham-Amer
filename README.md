@@ -4,6 +4,7 @@
 # 💫 About Me:
 🔧 I'm passionate about Embedded Systems, IoT, and building smart, real-world solutions using microcontrollers.<br>💻 I also explore software development, with projects involving Python, MATLAB, and web technologies.<br>🌱 Currently learning & exploring: AWS Cloud and Data Science.<br>📫 Let's connect and collaborate!
 
+## 🌐 Check out my CV: https://drive.google.com/file/d/1fxm6Sk8PWPynkXcnWZxPdcOkl6KUCnO2/view?usp=sharing
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ahmedhaitham10) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ahmedhaitham10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-haitham-amer) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ahmedhaitham4331) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedhaitham589@gmail.com) 
