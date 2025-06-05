@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Haitham Amer</h1>
-<h3 align="center">A passionate Electronics and Computer Engineering Sophomore From Egypt 🇪🇬</h3>
+<h3 align="center">An Electronics and Computer Engineering student at Nile University, Egypt.</h3>
 
 # 💫 About Me:
-👋 Hi, I'm Ahmed Haitham Amer, an Electronics and Computer Engineering student at Nile University, Egypt.<br>🔧 I'm passionate about Embedded Systems, IoT, and building smart, real-world solutions using microcontrollers.<br>💻 I also explore software development, with projects involving Python, MATLAB, and web technologies.<br>🌱 Currently learning: AWS Cloud and Data Science.<br>📫 Let's connect and collaborate!
+🔧 I'm passionate about Embedded Systems, IoT, and building smart, real-world solutions using microcontrollers.<br>💻 I also explore software development, with projects involving Python, MATLAB, and web technologies.<br>🌱 Currently learning: AWS Cloud and Data Science.<br>📫 Let's connect and collaborate!
 
 
 ## 🌐 Socials:
