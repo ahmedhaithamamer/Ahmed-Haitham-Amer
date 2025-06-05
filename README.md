@@ -4,7 +4,7 @@
 # 💫 About Me:
 🔧 I'm passionate about Embedded Systems, IoT, and building smart, real-world solutions using microcontrollers.<br>💻 I also explore software development, with projects involving Python, MATLAB, and web technologies.<br>🌱 Currently learning & exploring: AWS Cloud and Data Science.<br>📫 Let's connect and collaborate!
 
-## 🌐 Check out my CV: 
+## 📝 Check out my CV: 
 https://drive.google.com/file/d/1fxm6Sk8PWPynkXcnWZxPdcOkl6KUCnO2/view?usp=sharing
 
 ## 🌐 Socials:
