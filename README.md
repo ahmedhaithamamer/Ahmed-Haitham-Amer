@@ -8,7 +8,7 @@
 📫 Open to collaborations and exciting opportunities — let’s connect!
 
 ## 📝 Check out my CV:
-[CV (Google Drive)](https://drive.google.com/file/d/1fxm6Sk8PWPynkXcnWZxPdcOkl6KUCnO2/view?usp=sharing)
+[Ahmed's CV](https://drive.google.com/file/d/1fxm6Sk8PWPynkXcnWZxPdcOkl6KUCnO2/view?usp=sharing)
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-haitham-amer)
