@@ -40,11 +40,8 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Fritzing](https://img.shields.io/badge/Fritzing-E40000?style=for-the-badge&logo=fritzing&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-294172?style=for-the-badge)
-![Multisim](https://img.shields.io/badge/Multisim-2C6B8E?style=for-the-badge)
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-FFB400?style=for-the-badge&logo=autodesk&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ahmedhaithamamer&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
