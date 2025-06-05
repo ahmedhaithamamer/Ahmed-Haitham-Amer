@@ -2,7 +2,7 @@
 <h3 align="center">An Electronics and Computer Engineering student at Nile University, Egypt.</h3>
 
 # 💫 About Me:
-🔧 I'm passionate about Embedded Systems, IoT, and building smart, real-world solutions using microcontrollers.<br>💻 I also explore software development, with projects involving Python, MATLAB, and web technologies.<br>🌱 Currently learning: AWS Cloud and Data Science.<br>📫 Let's connect and collaborate!
+🔧 I'm passionate about Embedded Systems, IoT, and building smart, real-world solutions using microcontrollers.<br>💻 I also explore software development, with projects involving Python, MATLAB, and web technologies.<br>🌱 Currently learning & exploring: AWS Cloud and Data Science.<br>📫 Let's connect and collaborate!
 
 
 ## 🌐 Socials:
