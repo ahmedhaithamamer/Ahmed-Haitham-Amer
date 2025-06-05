@@ -41,6 +41,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-FFAE1A.svg?style=for-the-badge&logo=tinkercad&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-36454F.svg?style=for-the-badge&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-003366.svg?style=for-the-badge&logo=analog-devices&logoColor=white)
 
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
