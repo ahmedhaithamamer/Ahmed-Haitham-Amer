@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Haitham Amer</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Haitham</h1>
 <h3 align="center">An Electronics and Computer Engineering student at Nile University, Egypt.</h3>
 
 # 💫 About Me:
