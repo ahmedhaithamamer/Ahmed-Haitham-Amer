@@ -20,7 +20,7 @@
 I am actively looking for internships, collaborations, or job roles in embedded systems, IoT development, and cloud-based solutions. Passionate about solving real-world problems through technology and eager to learn from industry experts.
 
 ## 🌍 Languages Spoken
-- Arabic (Native)  
+- Egyptian Arabic (Native)  
 - English (Fluent) 
 
 ## 🌐 Connect with Me:
