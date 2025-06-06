@@ -11,21 +11,29 @@
 [Ahmed's CV](https://drive.google.com/file/d/1fxm6Sk8PWPynkXcnWZxPdcOkl6KUCnO2/view?usp=sharing)
 
 ## 🚀 Projects Showcase
-- **Secure Smart Shop** – An integrated smart store system with automatic cooling, fire detection, entry detection, and security modules using Arduino and ESP8266.  
-  [GitHub Repo](https://github.com/ahmedhaithamamer/SecureSmartShop)  
-- **IoT Home Automation** – Projects developed during the IoT course by University of California, Irvine, involving sensor networks and remote device control.  
-- **YouTube Video Downloader GUI** – Python application using yt_dlp with a customtkinter interface for smooth video downloads.  
-- More projects on my [GitHub profile](https://github.com/ahmedhaithamamer).
+- **Secure Smart Shop** – An integrated smart store system with automatic cooling, fire detection, entry detection, and security modules using Arduino and ESP8266. [GitHub Repo](https://github.com/ahmedhaithamamer/SecureSmartShop)  
+- **IoT Home Automation** – Projects developed during the IoT course by University of California, Irvine, involving sensor networks and remote device control. 
+- **YouTube Video Downloader GUI** – Python application using yt_dlp with a customtkinter interface for smooth video downloads.  [GitHub Repo](https://github.com/ahmedhaithamamer/Youtube-video-downloader-app)
+- **Multifunction Calculator** – C++ Windows Forms app with basic arithmetic functions, intuitive UI, and navigation menu for mode switching and exit. Developed using Visual Studio and WinForms (.NET Framework). [GitHub Repo](https://github.com/ahmedhaithamamer/Multifunction-Calculator)
+- More projects on my [Repositories](https://github.com/ahmedhaithamamer?tab=repositories).
+
+## 🎯 Goals & Opportunities
+I am actively looking for internships, collaborations, or job roles in embedded systems, IoT development, and cloud-based solutions. Passionate about solving real-world problems through technology and eager to learn from industry experts.
+
+## 🌍 Languages Spoken
+- Arabic (Native)  
+- English (Fluent) 
 
 ## 🌐 Connect with Me:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-haitham-amer)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedhaitham589@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ahmedhaitham589)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/ahmedhaithamamer)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedhaitham589@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ahmedhaitham4331)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ahmedhaitham10)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ahmedhaitham10) 
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -42,9 +50,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
+
 ### ⚙️ Hardware & Microcontrollers
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP](https://img.shields.io/badge/ESP-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-FFAE1A.svg?style=for-the-badge&logo=tinkercad&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-36454F.svg?style=for-the-badge&logoColor=white)
@@ -67,6 +76,12 @@
 ![IBM Data Science](https://img.shields.io/badge/IBM_Data_Science-blue?style=for-the-badge&logo=ibm&logoColor=white)
 ![AWS Academy Cloud Foundations](https://img.shields.io/badge/AWS_Academy_Cloud_Foundations-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
 [![Siemens Automotive Embedded Systems](https://img.shields.io/badge/Siemens_Automotive_Embedded_Systems-blue?style=for-the-badge&logo=siemens&logoColor=white)](https://www.siemens.com)
+
+## ✨ Fun Facts / Hobbies
+- Swimming enthusiast 🏊‍♂️  
+- Passionate coder & electronics tinkerer 💡  
+- Always exploring new tech and gadgets  
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ahmedhaithamamer&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
