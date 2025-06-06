@@ -11,7 +11,7 @@
 [Ahmed's CV](https://drive.google.com/file/d/1fxm6Sk8PWPynkXcnWZxPdcOkl6KUCnO2/view?usp=sharing)
 
 ## 🎓 Courses I Took
-[![CS50x](https://img.shields.io/badge/CS50x-Harvard-red?style=for-the-badge&logo=harvard&logoColor=white)]([https://cs50.harvard.edu/x/](https://courses.edx.org/certificates/0974b00f3761476da41cf75f1405d253))
+[![CS50x](https://img.shields.io/badge/CS50x-Harvard-red?style=for-the-badge&logo=harvard&logoColor=white)](https://courses.edx.org/certificates/0974b00f3761476da41cf75f1405d253))
 ![IoT - UCI](https://img.shields.io/badge/IoT_UC_Irvine-007ACC?style=for-the-badge&logo=university&logoColor=white)
 [![IBM Data Science](https://img.shields.io/badge/IBM_Data_Science-blue?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/professional-certificates/ibm-data-science)
 [![AWS Academy Cloud Foundations](https://img.shields.io/badge/AWS_Academy_Cloud_Foundations-orange?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/training/awsacademy/)
