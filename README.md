@@ -10,6 +10,13 @@
 ## 📝 Check out my CV:
 [Ahmed's CV](https://drive.google.com/file/d/1fxm6Sk8PWPynkXcnWZxPdcOkl6KUCnO2/view?usp=sharing)
 
+## 🚀 Projects Showcase
+- **Secure Smart Shop** – An integrated smart store system with automatic cooling, fire detection, entry detection, and security modules using Arduino and ESP8266.  
+  [GitHub Repo](https://github.com/ahmedhaithamamer/SecureSmartShop)  
+- **IoT Home Automation** – Projects developed during the IoT course by University of California, Irvine, involving sensor networks and remote device control.  
+- **YouTube Video Downloader GUI** – Python application using yt_dlp with a customtkinter interface for smooth video downloads.  
+- More projects on my [GitHub profile](https://github.com/ahmedhaithamamer).
+
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-haitham-amer)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ahmedhaitham589)
